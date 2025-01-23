@@ -43,23 +43,21 @@ To run this project, you need to have Python installed on your system. You can i
 pip install pandas scikit-learn matplotlib seaborn jupyter
 ```
 
-Usage
-Clone this repository to your local machine.
 
-bash
-Copy
-git clone https://github.com/your-username/dress-sales-clustering.git
-Navigate to the project directory.
+## Usage
+1. Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/your-username/dress-sales-clustering.git
+   ```
+2. Navigate to the project directory.
+   ```bash
+   cd dress-sales-clustering
+   ```
+3. Open the Jupyter Notebook or Google Colab and run the provided notebook file.
+   ```bash
+   jupyter notebook
+   ```
+4. Follow the instructions in the notebook to load the dataset, preprocess the data, and apply clustering algorithms.
 
-bash
-Copy
-cd dress-sales-clustering
-Open the Jupyter Notebook or Google Colab and run the provided notebook file.
-
-bash
-Copy
-jupyter notebook
-Follow the instructions in the notebook to load the dataset, preprocess the data, and apply clustering algorithms.
-
-Results
+## Results
 The clustering results will help in identifying patterns in dress attributes and sales performance. These insights can be used to design better marketing strategies and manage inventory more effectively.
